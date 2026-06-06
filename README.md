@@ -15,7 +15,7 @@ Rick OS started as a Sudoku prototype and evolved into a modular multi-app syste
 
 ## Quick Start
 
-1. Install RP2040 board support in Arduino IDE.
+1. Install RP2040 board support in Arduino IDE. Tested with Philhower III core and a Pico 2 RP2350.
 2. Open [PicoCalc_Rick_OS_Arduino.ino](PicoCalc_Rick_OS_Arduino.ino).
 3. Select your RP2040 board + serial port.
 4. Ensure required hardware is connected (display, keyboard, SD, audio pins).
